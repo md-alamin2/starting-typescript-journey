@@ -21,5 +21,5 @@ let address = undefined;
 // null type
 let phoneNumber = null;
 // phoneNumber = 1234567890; // Error: Type 'number' is not assignable to type 'null'
-console.log(name, age, isStudent, address, phoneNumber);
+console.log(Name, age, isStudent, address, phoneNumber);
 //# sourceMappingURL=primitive.js.map
